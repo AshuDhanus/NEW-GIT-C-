@@ -31,7 +31,7 @@ int main() {
    int t = 1; cin >> t;
    while(t--){
           //read(n); 
-   	      cout<<"hello"<<endl;
+   	      cout<<"hello";
    }	
    return 0;
 }
